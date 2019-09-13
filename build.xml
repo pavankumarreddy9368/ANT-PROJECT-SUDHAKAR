@@ -25,7 +25,7 @@ POLL SCM TEST
  new line added 
 -->
 
-<project name="javademo" default="deploy">
+<project name="javademo" default="package">
 
 <property file="build.properties"/>
 <property name="appversion" value="2.0"/>
